@@ -1,4 +1,4 @@
-# pre set-up framework
+# pre set-up dependencies
 
 - [vite](https://vitejs.dev/)
 - [semi-design (semi-design / semi-icon / semi-illustrations)](https://semi.design/zh-CN/)
@@ -10,7 +10,7 @@
 
 # develop set-up
 
-install depencies
+install dependencies
 
 ```bash
 pnpm i
