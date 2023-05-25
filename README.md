@@ -7,6 +7,7 @@
 - [ahooks](https://ahooks.js.org/)
 - [react-query](https://tanstack.com/query/v3)
 - [react-i18next](https://github.com/i18next/react-i18next)
+- less
 
 # develop set-up
 
@@ -22,9 +23,9 @@ yarn
 
 start project
 ```bash
-pnpm start
+pnpm dev
 
-npm start
+npm dev
 
-yarn start
+yarn dev
 ```
