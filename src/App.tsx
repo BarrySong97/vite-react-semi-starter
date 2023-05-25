@@ -9,7 +9,6 @@ import "./i18n/config";
 import { useLocalStorageState } from "ahooks";
 import { useTranslation } from "react-i18next";
 import { useEffect } from "react";
-import "@douyinfe/semi-ui/dist/css/semi.min.css";
 const { Header, Content } = Layout;
 const queryClient = new QueryClient();
 const semiLocale = {

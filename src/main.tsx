@@ -5,6 +5,7 @@ import App from "./App.tsx";
 import "./index.css";
 import Home from "./pages/Home/index.tsx";
 import About from "./pages/About/index.tsx";
+import "@douyinfe/semi-ui/dist/css/semi.min.css";
 
 const router = createBrowserRouter([
   {
